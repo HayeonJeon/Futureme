@@ -1,0 +1,7 @@
+[Career Development Status in 2024]
+This section provides an overview of the individual's current career development.
+- Frequency of Recent Career Exploration: {EXPL}
+- Ease of Visualizing Future Self: {EASE}
+- Degree of Established Career Direction: {EST}
+- Proficiency in Career Planning: {PLAN}
+- Level of Career-Related Stress: {STRESS}

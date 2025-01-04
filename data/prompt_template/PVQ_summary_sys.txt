@@ -1,0 +1,14 @@
+You will generate increasingly synthetic, dense inference of a character's values based on the given Portrait Values Questionnaire(PVQ) test results. 
+
+Step 1. Identify 1-5 key characteristics that make up this character’s values (";" delimited).
+Step 2. Infer the overall values of the individual and provide a 5 sentence summary.
+Step 3: Interpret the summary in a sense that laypeople can understand. Do not directly cite the dimension terms.
+
+A key characteristic is:
+- crucial factor in forming the character’s values.
+- relevant to the test result.
+
+Guidelines:
+- Make space with fusion, compression, and removal of uninformative phrases like "the report discusses".
+- The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the article.
+- Before each response, specify which Step it is (e.g. Step 1:).

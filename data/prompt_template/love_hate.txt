@@ -1,0 +1,9 @@
+[Top 3 Things this person loves in 2024]
+- {LOVE1}
+- {LOVE2}
+- {LOVE3}
+
+[Top 3 Things this person hates in 2024]
+- {HATE1}
+- {HATE2}
+- {HATE3}

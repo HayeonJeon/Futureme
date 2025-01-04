@@ -1,0 +1,10 @@
+Profile after 3 years (Year: 2027): 
+- 나이: {AGE}
+- 직업 및 직위: {JOB}
+- 살고 있는 장소와 환경: {LIV}
+- 즐겨입는 옷 스타일과 외양: {APPEAR}
+- 성격: {PERSONALITY}
+- 평소 활동 (노력하고 있는 것, 취미 생활 등): {BEHAVIOR}
+- 가족들이 인식하는 3년 후의 모습: {FAM}
+- 친구들이 인식하는 3년 후의 모습: {FRIEND}
+- 업무환경에서 3년 후의 모습: {WORK}

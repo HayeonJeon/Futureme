@@ -1,0 +1,6 @@
+[Personal and Career Insight in 2024]
+This section addresses aspects related to the individual's career development and support.
+- Self-Efficacy Level: {EFFICACY}
+- Psychological Well-Being: {WELL}
+- Career Goal Clarity: {CLARITY}
+- Parental Career Support: {SUPPORT}

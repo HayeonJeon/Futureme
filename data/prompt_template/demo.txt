@@ -1,0 +1,19 @@
+Current Profile (Year: 2024):
+[Demographics]
+This section describes the individual's demographic information.
+- Age: {AGE}
+- Sex: {SEX}
+- Residence: {RESIDENCE}
+- Education: {EDU}
+{SEMESTER}
+{GRADYEAR}
+- Major: {MAJOR}
+- Perceived Income: {PER_INC}
+- Income Satisfaction: {SAT_INC}
+- Perceived Class: {PER_CLASS}
+- Living Style: {LIV}
+- Number of Siblings: {SIB}
+- Father’s Education Level: {D_EDU}
+- Mother’s Education Level: {M_EDU}
+- Father’s Occupation: {D_JOB}
+- Mother’s Occupation: {M_JOB}
